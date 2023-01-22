@@ -1,0 +1,4 @@
+name: RegionSystem
+version: '${version}'
+main: io.github.alal08.regionsystem.RegionSystem
+api-version: 1.19
